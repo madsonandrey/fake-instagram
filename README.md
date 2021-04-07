@@ -6,7 +6,7 @@
 
 <div>
 <p align="center">
-<img src="https://github.com/madsonandrey/fake-instagram/blob/main/img/Layout%20da%20p%C3%A1gina.png" alt="layout" width="950" height="600"/> 
+<img src="https://github.com/madsonandrey/fake-instagram/blob/main/img/Layout%20da%20p%C3%A1gina.png" alt="layout" width="1357" height="724"/> 
 </div>
 
 <p>&nbsp;</p>
